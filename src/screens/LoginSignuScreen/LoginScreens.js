@@ -39,8 +39,8 @@ export const LoginScreens = ({navigation}) => {
             />
         </View>
 
-        <TouchableOpacity style={btn1}>
-            <Text style = {{color:colors.col1,fontSize:titles.btntext,fontWeight:'bold',textAlign:'center'}}>Sign in</Text>
+        <TouchableOpacity style={btn1} onPress={() => navigation.navigate('home')}>
+            <Text style = {{color:colors.col1,fontSize:titles.btntext,fontWeight:'bold',textAlign:'center'}} >Sign in</Text>
         </TouchableOpacity>
 
         <Text style = {styles.forgot}>Forgot password?</Text>
