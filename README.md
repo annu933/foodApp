@@ -21,3 +21,9 @@ Day-3 :
 3.Created globle css component.
 3.Build top navigation, food categories, food offer slider sections in the home page.
 4.Used react-native-swiper for the slide.
+
+Day-4 : 
+1.Created seperated folder(food-app-admin-panel).
+2.Developed food-info form(includes - name,price,description,category,image,restaurant-name,restaurant-add,restaurant-phone).
+3.Created database in firebase.
+3.Stored data in firebase.
