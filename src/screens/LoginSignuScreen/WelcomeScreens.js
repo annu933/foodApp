@@ -6,7 +6,7 @@ import{colors,hr80} from '../../globals/styles'
 export const WelcomeScreens = ({navigation}) => {
   return (
     <View style={styles.container}>
-        <Text style={styles.title}>Welcome to Foodie</Text>
+        <Text style={styles.title}>Welcome to Foodies</Text>
         <View style={styles.logoout}>
             <Image source={logo} style={styles.logo}/>
         </View>
