@@ -30,14 +30,18 @@ Day-4 :
 4. used react js though develope website and send data to server(firebase)
 
 Day-5 : 
-1.Created seperated folder(food-app-admin-panel).
-2.Developed food-info form(includes - name,price,description,category,image,restaurant-name,restaurant-add,restaurant-phone).
-3.Created database in firebase.
-3.Stored data in firebase.
-4. call the data through server(firebase) into react native app(foodie)
-5.run command: expo run:android
-6.install npm install --save @react-native-firebase/app and npm install --save @react-native-firebase/firebase
+1.run command: expo run:android
+2.install npm install --save @react-native-firebase/app and npm install --save @react-native-firebase/firebase
+3. added more input fields (address of restaurant building number, street number, pincode, email, food type, food category)
+4. stored data in firebase.
+5.npm i firebase in project(foodapp)
 
+Day-6 : 
+1.run command: expo run:android
+2.install npm install --save @react-native-firebase/app and npm install --save @react-native-firebase/firebase
+3. added more input fields (address of restaurant building number, street number, pincode, email, food type, food category)
+4. stored data in firebase.
+5.npm i firebase in project(foodapp)
 
 
 
